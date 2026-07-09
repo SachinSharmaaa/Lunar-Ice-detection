@@ -183,3 +183,6 @@ Computer Vision | Deep Learning | Space Technology
 ## License
 
 This project is developed for research, educational, and academic purposes.
+
+<img width="1920" height="1200" alt="vadim-sadovski-e9" src="https://github.com/user-attachments/assets/7cd11373-9fc3-474e-b814-a4ce86b381f8" />
+
