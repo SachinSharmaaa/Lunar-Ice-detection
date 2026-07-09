@@ -1,0 +1,36 @@
+# ==========================
+# Lunar Ice Detection
+# ==========================
+
+
+# Large DFSAR Radar Files
+CH2On001tSsDS95rR1c01-21272001904.prd
+CH2On000tIsDS95rR1c00-21272001904.obs
+
+# Raw radar datasets
+data/raw/ch2o_09337_dfrs_ds95_2021_272_00_57
+
+# Jupyter Notebook cache
+01_data_loading.ipynb
+01_radar_analysis.ipynb
+02_landing_site_ranking.ipynb
+03_ice_probability_model.ipynb
+04_ml_based_ice_classifier.ipynb
+05_final_landing_site_selection.ipynb
+06_rover_traverse_planning.ipynb
+07_results_dashboard.ipynb
+08_project_summary.ipynb
+09_dfsar_obs_parser.ipynb
+10_dfsar_prd_parser.ipynb
+11_lunar_ice_probability_map.ipynb
+12_mission_report_generator.ipynb
+
+
+# Keep processed results
+# (These will be uploaded)
+!data/processed/
+!clean_dfsar_data.csv
+!top_ice_candidates.csv
+!ml_detected_ice_regions.csv
+!final_landing_sites.csv
+!lunar_ice_probability_map.csv
